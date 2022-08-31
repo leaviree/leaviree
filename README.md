@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @R-Ravenclaw
 - 👀 I’m interested in learning to code
-- 🌱 I’m currently learning Scratch
-- 📫 How to reach me: https://scratch.mit.edu/users/R_Ravenclaw/
+- 🌱 I’m currently learning Python
 
 <!---
 R-Ravenclaw/R-Ravenclaw is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

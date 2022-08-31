@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @R-Ravenclaw
+- 👋 Hi, I’m @leaviree
 - 👀 I’m interested in learning to code
 - 🌱 I’m currently learning Python
 
